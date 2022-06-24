@@ -11,8 +11,6 @@ import pandas as pd
 import requests
 import streamlit as st
 import plotly.express as px
-import plotly.graph_objects as go
-
 
 start_date = datetime.datetime(2020, 1, 1)
 end_date = datetime.date.today()
